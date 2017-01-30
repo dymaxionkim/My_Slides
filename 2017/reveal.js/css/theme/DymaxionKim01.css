@@ -5,7 +5,8 @@
  * This theme is Copyright (C) 2012 Owen Versteeg, https://github.com/StereotypicalApps. It is MIT licensed.
  * reveal.js is Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
-@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+/*  @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css?family=Noto+Sans+KR);  */
+@import url(http://fonts.googleapis.com/css?family=Noto+Sans);
 /*
 @import url(https://fonts.googleapis.com/css?family=News+Cycle:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
@@ -21,7 +22,7 @@ body {
   background-color: #fff; }
 
 .reveal {
-  font-family: "Noto Sans KR", sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-size: 40px;
   font-weight: normal;
   color: #000; }
@@ -53,7 +54,7 @@ body {
   margin: 0 0 20px 0;
   color: #000;
   /*font-family: "Noto Sans KR", Impact, sans-serif;*/
-  font-family: "Noto Sans KR", sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-weight: 900;
   line-height: 1.2;
   letter-spacing: normal;
