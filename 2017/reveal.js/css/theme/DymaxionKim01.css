@@ -22,7 +22,8 @@ body {
   background-color: #fff; }
 
 .reveal {
-  font-family: "Noto Sans", sans-serif;
+/*  font-family: "Noto Sans", sans-serif;  */
+  font-family: "Noto Sans";
   font-size: 40px;
   font-weight: normal;
   color: #000; }
@@ -54,7 +55,8 @@ body {
   margin: 0 0 20px 0;
   color: #000;
   /*font-family: "Noto Sans KR", Impact, sans-serif;*/
-  font-family: "Noto Sans", sans-serif;
+/*  font-family: "Noto Sans", sans-serif;  */
+  font-family: "Noto Sans";
   font-weight: 900;
   line-height: 1.2;
   letter-spacing: normal;
