@@ -1,0 +1,179 @@
+{
+  "basics": {
+    "name": "김동호",
+    "label": "Top-class Mechanical Designer",
+    "picture": "https://cloud.githubusercontent.com/assets/12775748/11586554/45bf4fd6-9ab7-11e5-91af-481ada800b23.png",
+    "email": "Dymaxion.Kim@gmail.com",
+    "phone": "010-2289-4826",
+    "website": "https://DymaxionKim.github.io",
+    "summary": "단순한 제품모델링, 엉성한 도면작도, 말로 때우는 팔로우업을 하는 수준의 설계자는 많습니다만, 철저한 설계데이타 형상관리와 고품질의 결과물, 경쟁사가 따라올 수 없는 핵심기술을 실제 구현할 수 있으면서 동시에 수익화 단계까지 가는 동안 직면하는 모든 장애물과 돌발상황에 대처 가능한, 긍정적인 자세의 끈질기고 강력한 고급 기술자를 원하신다면 분명 최고의 선택이 되실 것입니다.",
+    "location": {
+      "address": "대구광역시 북구 대현남로 25 (대현동, 대현휴먼시아2단지) 204동 102호",
+      "postalCode": "41573",
+      "city": "대구광역시",
+      "countryCode": "대한민국",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "dymaxionkim",
+        "url": "https://github.com/dymaxionkim"
+      },
+      {
+        "network": "Porfolio",
+        "username": "by Reveal.js",
+        "url": "https://dymaxionkim.github.io/My_Slides/2018/reveal.js/2018_Portfolio_DymaxionKim.html"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "(주)대진디엠피",
+      "position": "헬스케어사업팀장",
+      "website": "http://daejindmp.co.kr",
+      "startDate": "2017-02-15",
+      "endDate": "2018-06-30",
+      "summary": "LED 기반 광치료요법 관련 제품개발",
+      "highlights": [
+        "[FAT] 웨어러블 근적외선 지방분해기",
+        "[LPL] Low Level LED Therapy (의료기기)",
+        "[FEM] 여성용 회춘기 (의료기기), 프로토타입까지 진행"
+      ]
+    },
+    {
+      "company": "(주)도담 시스템스",
+      "position": "수석연구원",
+      "website": "http://dodaam.com",
+      "startDate": "2015-08-17",
+      "endDate": "2016-10-07",
+      "summary": "방산장비 CATIA 구조설계, 유한요소해석, 동역학해석, 사격 및 운용 테스트",
+      "highlights": [
+        "[RCWS] 장갑차량 탑재용 원격 조종 무장 체계 (튀니지,아랍에미레이트,터키 수출)",
+        "[ADAS] 발칸, 신궁 훈련 플랫폼",
+        "[P141] 특수전용 잠수함 시뮬레이터 구조해석"
+      ]
+    },
+    {
+      "company": "(주)이디",
+      "position": "책임연구원",
+      "website": "http://ed.co.kr",
+      "startDate": "2007-06-01",
+      "endDate": "2015-08-15",
+      "summary": "서비스로봇, 교육용로봇 CREO 구조설계, 유한요소해석, 동역학해석",
+      "highlights": [
+        "[EDPDM] Java/Tomcat 기반 사내 PDM 시스템 개발 매니지먼트 (약7만개 부품, ERP와 연동)",
+        "[ARO] 휴머노이드 서비스 로봇",
+        "[MANIPULATORS] SCARA, Articulated, Redundant Configurations",
+        "[EDUCATION] 각종 교육용 장비류"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "동국대학교",
+      "area": "기계공학과",
+      "studyType": "학사",
+      "startDate": "1993-03-01",
+      "endDate": "2009-02-01",
+      "gpa": "2.9",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "엘머로 해 보는 오픈소스 엔지니어링",
+      "publisher": "월간 CAD&Gaphics",
+      "releaseDate": "2017-09월호부터 계속",
+      "website": "https://www.cadgraphics.co.kr",
+      "summary": "고급 오픈소스 다물리 다물체 유한요소해석 기법 강좌 연재"
+    }
+  ],
+  "skills": [
+    {
+      "name": "CAD",
+      "level": "High",
+      "keywords": [
+        "CREO",
+        "CATIA",
+        "FreeCAD",
+        "AutoCAD",
+        "DraftSight",
+        "Blender (Cycles Render)"
+      ]
+    },
+    {
+      "name": "CAE",
+      "level": "High",
+      "keywords": [
+        "Elmer FEM",
+        "CalculiX",
+        "Salome with Python automation",
+        "Paraview",
+        "Gmsh",
+        "MidasNFX",
+        "CATIA FEA",
+        "CREO Dynamics and Mechanica",
+        "Recurdyn"
+      ]
+    },
+    {
+      "name": "CODING for Numerical Synthesis and Analysis",
+      "level": "Middle",
+      "keywords": [
+        "Julia Lang",
+        "Scientific Python",
+        "Matlab",
+        "Scilab",
+        "GNU Octave",
+        "C"
+      ]
+    },
+    {
+      "name": "GEAR Design",
+      "level": "High",
+      "keywords": [
+        "Involute Gear Design",
+        "Cycloid Gear Design",
+        "Ball Gear Design",
+        "Harmonic Drive Design",
+        "고정밀도 치형(Tooth Profile) 설계까지 가능"
+      ]
+    },
+    {
+      "name": "Computing",
+      "level": "Middle",
+      "keywords": [
+        "Linux for Desktop / Mini Server",
+        "Git for VCS/PDM",
+        "HPC for CAE on CLI",
+        "Redmine for Project Management"
+      ]
+    },
+    {
+      "name": "Quality System",
+      "level": "Middle",
+      "keywords": [
+        "ISO9001",
+        "ISO13485",
+        "KGMP"
+      ]
+    },
+    {
+      "name": "Automatic Control / Robotics Theory",
+      "level": "I know...",
+      "keywords": [
+        "DH Parameter Table",
+        "IK Exact Solution for 4-DOF Arm",
+        "Pseudo Invers Jacobian for IK/ID (Moor-Penrose, Nakamura DLS, Chiaverini, Weighted Jacobian Transpose...)",
+        "General Automatic Control Theory"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
+
