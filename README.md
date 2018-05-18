@@ -1,6 +1,5 @@
 ## My_Slides
-* URL Example : https://dymaxionkim.github.io/My_Slides/2017/????.html
+* [Resume](https://dymaxionkim.github.io/My_Slides/2018/Resume/resume_onepage.html)
+* [Portfoilo](https://dymaxionkim.github.io/My_Slides/2018/reveal.js/2018_Portfolio_DymaxionKim.html)
 
 
-### 2017
-* [2017/20170125_Revealjs.html](https://dymaxionkim.github.io/My_Slides/2017/20170125_Revealjs.html#/)
