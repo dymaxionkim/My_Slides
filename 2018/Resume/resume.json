@@ -166,7 +166,7 @@
       "level": "I know...",
       "keywords": [
         "DH Parameter Table",
-        "IK Exact Solution for 4-DOF Arm",
+        "IK Exact Solution for 5-DOF Arm",
         "Pseudo Invers Jacobian for IK/ID (Moor-Penrose, Nakamura DLS, Chiaverini, Weighted Jacobian Transpose...)",
         "General Automatic Control Theory"
       ]
