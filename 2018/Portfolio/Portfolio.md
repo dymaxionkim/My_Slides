@@ -1,10 +1,18 @@
 ![bg](https://user-images.githubusercontent.com/12775748/49276804-e0f84580-f4c2-11e8-9d5a-af636fe24e54.jpg)
 
-# Portfolio
-
-_Top Class Mechanical Engineer_
-_20181128_
-_[김동호](https://dymaxionkim.github.io/beautiful-jekyll/aboutme/)_
+_Portfolio_
+# _Top Class Mechanical Engineer_
+_[Kim,Dongho](https://dymaxionkim.github.io/beautiful-jekyll/aboutme/)_
+_dymaxion.kim@gmail.com_
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 ---
 
@@ -16,13 +24,13 @@ _2017~2018_
 
 * [Aalok](http://aalok.com)
 
-![40% center](https://user-images.githubusercontent.com/12775748/40169392-dcf507fa-5a00-11e8-8e67-097fdf8fdf49.png)
+![80% center](https://user-images.githubusercontent.com/12775748/40169392-dcf507fa-5a00-11e8-8e67-097fdf8fdf49.png)
 
 ---
 
 * [LLT-1](http://ohbrightcare.co.kr)
 
-![40% center](https://user-images.githubusercontent.com/12775748/40169541-35204a34-5a01-11e8-9de3-9fb710ff1ac0.png)
+![80% center](https://user-images.githubusercontent.com/12775748/40169541-35204a34-5a01-11e8-9de3-9fb710ff1ac0.png)
 
 ---
 
@@ -344,12 +352,59 @@ _based on OpenSource Solutions_
 
 ---
 
+![bg](bg.png)
+# PDM / PLM / VCS / Automation
+_based on OpenSource Solutions_
+
+---
+
+* [ProtoPLM (PLM)](https://dymaxionkim.github.io/beautiful-jekyll/2017-03-22-protoplm-install/)
+
+![100% center](https://user-images.githubusercontent.com/12775748/40219453-6538a1d0-5ab0-11e8-9bee-3ffaef67c3d1.png)
+> Developed with Perl & MongoDB
+
+---
+
+* [Gitea (VCS)](https://gitea.io/)
+
+![100% center](https://user-images.githubusercontent.com/12775748/40219454-6577f2e0-5ab0-11e8-98c5-d5cce607feda.png)
+> Developed with Go Lang
+
+---
+
+* [JingoWiki (Wiki)](https://github.com/claudioc/jingo)
+
+![100% center](https://user-images.githubusercontent.com/12775748/40219470-766d1530-5ab0-11e8-9256-0052db676665.png)
+> Developed with Node.js, Markdown & Git
+
+---
+
+* [CATIA autosettup](https://dymaxionkim.github.io/CATIA_Auto_Settup/)
+
+![100% center](https://cloud.githubusercontent.com/assets/12775748/22509618/37e80d5c-e8d2-11e6-9d69-16026ba7b6e9.png)
+> Batch Script
+
+---
+
+* [PTC CREO autosettup](https://dymaxionkim.github.io/CREO3_STARTUP_DJDMP/)
+
+![100% center](https://cloud.githubusercontent.com/assets/12775748/22509579/0bc42936-e8d2-11e6-92ca-fca807978abd.png)
+> Context Menu, Batch Script
+
+---
+
+* [GrabCAD Workbench (PDM)](https://grabcad.com/)
+
+![100% center](https://user-images.githubusercontent.com/12775748/49282737-3f2d2480-f4d3-11e8-85bb-091fb78105c7.png)
+> Based on SVN
+
+---
+
 ![bg](https://user-images.githubusercontent.com/12775748/49276804-e0f84580-f4c2-11e8-9d5a-af636fe24e54.jpg)
 # _Take this technical superiority!_
 * _dymaxion.kim@gmail.com_
 * _dymaxionkim.github.io_
-* _[This Portfolio's URL](https://dymaxionkim.github.io/My_Slides/2017/reveal.js/20170127_Portfolio_DymaxionKim.html)_
-* _[Printable Version](https://dymaxionkim.github.io/My_Slides/2017/reveal.js/20170127_Portfolio_DymaxionKim.html?print-pdf)_
+* _[This Portfolio in PDF](https://dymaxionkim.github.io/My_Slides/2018/Portfolio/Portfolio.pdf)_
 
 ---
 
