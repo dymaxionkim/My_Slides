@@ -1,8 +1,8 @@
+![bg](https://user-images.githubusercontent.com/12775748/49276804-e0f84580-f4c2-11e8-9d5a-af636fe24e54.jpg)
 
 # Portfolio
 
 _Top Class Mechanical Engineer_
-
 _20181128_
 _[김동호](https://dymaxionkim.github.io/beautiful-jekyll/aboutme/)_
 
@@ -10,10 +10,7 @@ _[김동호](https://dymaxionkim.github.io/beautiful-jekyll/aboutme/)_
 
 ![bg](bg.png)
 # Healthcare
-
 _2017~2018_
-
-![100%](https://cloud.githubusercontent.com/assets/12775748/26043140/1828dcc2-3976-11e7-9e08-a37703e06041.png)
 
 ---
 
@@ -31,10 +28,7 @@ _2017~2018_
 
 ![bg](bg.png)
 # Medical Devices
-
 _2017~2018_
-
-![100%](https://cloud.githubusercontent.com/assets/12775748/22397120/d89de73a-e5ad-11e6-983c-aae562a14d6e.png)
 
 ---
 
@@ -52,10 +46,7 @@ _2017~2018_
 
 ![bg](bg.png)
 # Defence Robots
-
 _2015~2016_
-
-![100%](https://cloud.githubusercontent.com/assets/12775748/10863216/848701d2-8009-11e5-8d31-2d2416755c4b.png)
 
 ---
 
@@ -109,10 +100,7 @@ _2015~2016_
 
 ![bg](bg.png)
 # Mobile Robots
-
 _2007~2015_
-
-![100%](https://cloud.githubusercontent.com/assets/12775748/22397120/d89de73a-e5ad-11e6-983c-aae562a14d6e.png)
 
 ---
 
@@ -154,10 +142,7 @@ _2007~2015_
 
 ![bg](bg.png)
 # Arm Robots
-
 _2007~2015_
-
-![100%](https://cloud.githubusercontent.com/assets/12775748/22397120/d89de73a-e5ad-11e6-983c-aae562a14d6e.png)
 
 ---
 
@@ -229,10 +214,7 @@ _2007~2015_
 
 ![bg](bg.png)
 # Kinetic Art
-
 _2011~2012_
-
-![100%](https://cloud.githubusercontent.com/assets/12775748/11586629/cc78e47e-9ab7-11e5-8ed8-0a12610c0988.png)
 
 ---
 
@@ -268,10 +250,7 @@ _2011~2012_
 
 ![bg](bg.png)
 # Numerical Design and Analysis
-
 _based on OpenSource Solutions_
-
-![100%](https://cloud.githubusercontent.com/assets/12775748/11586629/cc78e47e-9ab7-11e5-8ed8-0a12610c0988.png)
 
 ---
 
@@ -365,14 +344,12 @@ _based on OpenSource Solutions_
 
 ---
 
-![bg](bg.png)
-# fin
-
-_Take this technical superiority!_
-
-dymaxion.kim@gmail.com / dymaxionkim.github.io 
-
-[This Portfolio's URL](https://dymaxionkim.github.io/My_Slides/2017/reveal.js/20170127_Portfolio_DymaxionKim.html) / [Printable Version](https://dymaxionkim.github.io/My_Slides/2017/reveal.js/20170127_Portfolio_DymaxionKim.html?print-pdf)
+![bg](https://user-images.githubusercontent.com/12775748/49276804-e0f84580-f4c2-11e8-9d5a-af636fe24e54.jpg)
+# _Take this technical superiority!_
+* _dymaxion.kim@gmail.com_
+* _dymaxionkim.github.io_
+* _[This Portfolio's URL](https://dymaxionkim.github.io/My_Slides/2017/reveal.js/20170127_Portfolio_DymaxionKim.html)_
+* _[Printable Version](https://dymaxionkim.github.io/My_Slides/2017/reveal.js/20170127_Portfolio_DymaxionKim.html?print-pdf)_
 
 ---
 
