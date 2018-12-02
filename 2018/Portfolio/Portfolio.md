@@ -262,6 +262,41 @@ _based on OpenSource Solutions_
 
 ---
 
+* [Bioheat Transfer from IR LED light source](https://youtu.be/hCuhrQhsY64) ![10%](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_d1bmaxNc_ySSB31DujcNmw-Ked2J8RaZbnRgeIy8cOC7RNJ9A)
+
+![100% center](https://user-images.githubusercontent.com/12775748/49335903-766a1580-f63a-11e8-9c25-31e67cb6a1a5.png)
+> with Pennes' Bioheat Equation
+
+---
+
+* Bioheat Transfer from IR LED light source
+
+![100% center](https://user-images.githubusercontent.com/12775748/49335904-7bc76000-f63a-11e8-843e-ddd4dd3f87db.png)
+> with Normal Heat Equation
+
+---
+
+* Bioheat Transfer from IR LED light source
+
+![100% center](https://user-images.githubusercontent.com/12775748/49335906-7ec25080-f63a-11e8-8378-d22c30b86915.png)
+> Image Diff with Imagemagick
+
+---
+
+* [LED Juction Temperature Analysis](https://youtu.be/D2_X236qBeg) ![10%](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_d1bmaxNc_ySSB31DujcNmw-Ked2J8RaZbnRgeIy8cOC7RNJ9A)
+
+![60% center](https://user-images.githubusercontent.com/12775748/49335991-e4174100-f63c-11e8-9a98-7edb2e07c044.png)
+> To know Real temperature sensor's value & LED's junction temperature by this CAE
+
+---
+
+* LED Juction Temperature Analysis
+
+![120% center](https://user-images.githubusercontent.com/12775748/49335992-e4174100-f63c-11e8-8773-5926e652c874.png)
+> Result Data to apply the product's software
+
+---
+
 * [Fine Gear Profile Generation and Analysis (Julia Lang)](http://dymaxionkim.blogspot.kr/search/label/GPG)
 
 ![80% center](http://3.bp.blogspot.com/-ApxIYrEZIT0/VW8n9XUMj8I/AAAAAAAAcLY/6qbtEvnEomA/s1600/20150603_028.png)
