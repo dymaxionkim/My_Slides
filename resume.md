@@ -1,5 +1,5 @@
 ---
-geometry: "left=2cm,right=2cm,top=2cm,bottom=2cm"
+geometry: "left=2cm,right=2cm,top=1cm,bottom=1cm"
 mainfont: Noto Sans CJK KR
 monofont: D2Coding
 fontsize: 10pt
@@ -36,14 +36,15 @@ pagestyle: empty
 
 
 ## PUBLICATIONS
-* **[엘머로 해 보는 오픈소스 엔지니어링](http://dymaxionkim.iptime.org:3100/dymaxionkim/CADG)**, [월간 CAD&Gaphics 연재기사](https://www.cadgraphics.co.kr), 201709~201809
-    - ElmerFEM을 활용한 고급 다물리/다물체 공학해석 기법 강좌 연재
+* **[엘머로 해 보는 오픈소스 엔지니어링(연재기사)](http://dymaxionkim.iptime.org:3100/dymaxionkim/CADG)**, [월간 CAD&Gaphics 연재기사](https://www.cadgraphics.co.kr), 201709~201809
 
-* **2018 CAE 컨퍼런스 세션 발표**, [월간 CAD&Gaphics 주최](https://blog.naver.com/caetoday), 20181115
-    - 오픈소스 CAE와 함께하는 제품개발 (Pennes Bioheat Eq. 및 Beer-Lambert Function 적용)
+* **2018 CAE 컨퍼런스 세션 발표 (오픈소스 CAE와 함께하는 제품개발)**, [월간 CAD&Gaphics 주최](https://blog.naver.com/caetoday), 20181115
 
-* **URAI(국제로봇학술대회) 논문 발표**, [한국로봇학회 KROS 주최](http://www.kros.org/urai2013/), 20131120
-    - Implementation of assistive robotic vehicle for the elderly (노인탑승용 자율주행로봇 개발)
+* **URAI(국제로봇학술대회) 논문 발표(노인탑승용 자율주행로봇 개발)**, [한국로봇학회 KROS 주최](http://www.kros.org/urai2013/), 20131120
+
+* **[휴대용 광학 지방 감소 및 근육 강화 장치와 그 제어 방법](https://doi.org/10.8080/1020180066589)**, 등록번호 1018947790000
+
+* **[유니버셜 로봇 관절모듈](https://doi.org/10.8080/1020100105160)**, 등록번호 1012644830000
 
 
 ## EDUCATION
